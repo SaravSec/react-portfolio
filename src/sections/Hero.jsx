@@ -2,7 +2,7 @@ import React from 'react'
 import Button from '../components/Button'
 import { ArrowRight, Download, Github, Linkedin, ChevronDown } from 'lucide-react'
 import { AnimatedBorderButton } from '../components/AnimatedBorderButton'
-import myPhoto from "../assets/saravn.jpg.png";
+import myPhoto from "../assets/saravanans.jpeg";
 
 const skills = [
   "HTML5",
