@@ -73,7 +73,7 @@ const Hero = () => {
               <Button size='lg' href='#contact'>
                 Contact Me <ArrowRight className='w-5 h-5' />
               </Button>
-              <AnimatedBorderButton href='/resume.pdf' download='Saravanan_Resume.pdf'>
+              <AnimatedBorderButton href='/Saravanan.S (MERN STACK).pdf' download='Saravanan_Resume.pdf'>
                 <Download className="w-5 h-5" />
                 Download CV
               </AnimatedBorderButton>
